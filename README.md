@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 
 ### Deployment
 
-This application is deployed using GitHub Pages. You can view the live version [here]([https://your-username.github.io/your-repository](https://hariharanlk.github.io/StopWatch/)).
+This application is deployed using GitHub Pages. You can view the live version  [here]([https://your-username.github.io/your-repository](https://hariharanlk.github.io/StopWatch/)).
 
 ### Contributing
 
